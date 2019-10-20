@@ -1,7 +1,7 @@
 import GoTrue from "gotrue-js";
 
 export const auth = new GoTrue({
-  APIUrl: "https://netlify-gotrue-in-vue.netlify.com/.netlify/identity",
+  APIUrl: "https://cranky-colden-bd43ba.netlify.com/.netlify/identity",
   audience: "",
   setCookie: false
 });
